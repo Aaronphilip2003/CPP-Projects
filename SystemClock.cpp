@@ -1,3 +1,5 @@
+// System Clock starting from a specified time
+
 #include<iostream>
 #include<windows.h>
 using namespace std;
